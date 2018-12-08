@@ -1,0 +1,36 @@
+_repo: The-River-of-Life-and-Other-Stories_58406
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Murray, J. M.
+    gutenberg_agent_id: '49935'
+    url: http://www.gutenberg.org/2009/agents/49935
+  - agent_name: Koteliansky, S. S. (Samuel Solomonovitch)
+    aliases:
+    - Koteliansky, Samuel Solomonovitch
+    - Koteliansky, Samuel Solomonovich
+    - Koteliansky, S.S.
+    - Котелянский, Самуел Соломонович
+    birthdate: 1882
+    deathdate: 1955
+    gutenberg_agent_id: '4566'
+    url: http://www.gutenberg.org/2009/agents/4566
+    wikipedia: http://en.wikipedia.org/wiki/S._S._Koteliansky
+creator:
+  author:
+    agent_name: Kuprin, Alexander
+    gutenberg_agent_id: '49155'
+    url: http://www.gutenberg.org/2009/agents/49155
+description: ''
+gutenberg_issued: '2018-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58406'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The River of Life and Other Stories
+url: http://www.gutenberg.org/ebooks/58406
