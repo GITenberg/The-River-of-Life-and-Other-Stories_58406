@@ -1,5 +1,5 @@
 _repo: The-River-of-Life-and-Other-Stories_58406
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Murray, J. M.
@@ -16,12 +16,17 @@ contributor:
     gutenberg_agent_id: '4566'
     url: http://www.gutenberg.org/2009/agents/4566
     wikipedia: http://en.wikipedia.org/wiki/S._S._Koteliansky
+covers:
+- cover_type: archival
+  image_path: 58406-h/images/cover.jpg
 creator:
   author:
     agent_name: Kuprin, Alexander
     gutenberg_agent_id: '49155'
     url: http://www.gutenberg.org/2009/agents/49155
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58406#The-River-of-Life-and-Other-Stories
 gutenberg_issued: '2018-12-03'
 gutenberg_type: Text
 identifiers:
